@@ -3,6 +3,11 @@
 
 We developed a sub-module for @Classlist with the team. This project manages product operations and works like an admin system. We built the web pages using the Flutter framework, following clean code principles, and set up a CD pipeline.
 
+## Images
+
+<div style="display: flex; overflow-x: auto; max-width: 100%;">
+  <img src="(https://raw.githubusercontent.com/berkeyilmaz1/Classlist-Shop-Admin-Module/refs/heads/main/images/dashboard/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-03%20185908.png)" alt="Dashboard" style="width: 200px; height: auto; margin-right: 10px;">
+</div>
 
 ## Features
 
@@ -63,7 +68,6 @@ We developed a sub-module for @Classlist with the team. This project manages pro
 - **Zeynep Şevval Daysalı** - Team Member
 
   
-## Ekran Görüntüleri
 
 
 
