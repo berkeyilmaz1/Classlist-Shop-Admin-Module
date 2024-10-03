@@ -4,10 +4,19 @@
 We developed a sub-module for @Classlist with the team. This project manages product operations and works like an admin system. We built the web pages using the Flutter framework, following clean code principles, and set up a CD pipeline.
 
 ## Images
+ 
 
 <div style="display: flex; overflow-x: auto; max-width: 100%;">
-  <img src="(https://raw.githubusercontent.com/berkeyilmaz1/Classlist-Shop-Admin-Module/refs/heads/main/images/dashboard/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-03%20185908.png)" alt="Dashboard" style="width: 200px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/540d9c1e-067b-4ad2-adab-980d1b9742ee" alt="Dashboard" style="width: 400px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/3a93838e-279a-4d7c-8951-591dbd5463d1" alt="Category" style="width: 400px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/f54fe827-56c7-47b5-870c-7bb3db70abc8" alt="Product" style="width: 400px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/b618e55f-92ea-48e1-b8ef-77de898e1cf0" alt="Category Search" style="width: 400px; height: auto; margin-right: 10px;">
 </div>
+
+and more...
+
+ 
+
 
 ## Features
 
