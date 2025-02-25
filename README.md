@@ -76,7 +76,7 @@ The project uses a **CD pipeline** that automates build, test, and deployment pr
 
 | Name | Role |
 |------|------|
-| **Veli Bacık** | 🏆 Team Leader |
+| **Veli Bacik** | 🏆 Team Leader |
 | **Yalçın Yavaş** | 🏆 Team Leader |
 | **Hasan Şahin** | 🔧 Backend Developer |
 | **Tahsin Emre Telli** | 👨‍💻 Team Member |
